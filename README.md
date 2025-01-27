@@ -4,20 +4,6 @@
 
 This is a solution to the [Frontend Mentor challenge](https://www.frontendmentor.io/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  
 
-## Table of contents  
-
-- [Overview](#overview)  
-  - [The challenge](#the-challenge)  
-  - [Screenshot](#screenshot)  
-  - [Links](#links)  
-- [My process](#my-process)  
-  - [Built with](#built-with)  
-  - [What I learned](#what-i-learned)  
-  - [Continued development](#continued-development)  
-  - [Useful resources](#useful-resources)  
-- [Author](#author)  
-- [Acknowledgments](#acknowledgments)  
-
 ## Overview  
 
 ### The challenge  
@@ -63,6 +49,4 @@ I aim to deepen my skills in CSS Grid and explore animation techniques to enhanc
 
 Thanks to the Frontend Mentor community for the inspiration and feedback that helped improve my coding practices!  
 
----  
-
-Let me know if you'd like any adjustments!
+---
